@@ -12,7 +12,7 @@ this shit dont work due to the pic being 5mb. ill compress it later
 
 
 <div align="center">
-<h3>Languages and Tools</h3>
+<h3>Programming Languages</h3>
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
