@@ -1,10 +1,10 @@
-<!--
-this shit dont work due to the pic being 5mb. ill compress it later 
-[![synth](https://cdn.discordapp.com/attachments/545659735903567874/969216192239796294/synth.png)](https://discord.com/users/484683804670296065) -->
+<div align="center">
+  <a href="https://discord.com/users/484683804670296065" target"blank_"><img src="https://cdn.discordapp.com/attachments/545659735903567874/978987544807092234/synth.png"></a>
+</div>
 
 
 <div align="center">
-<h3>Contact İnformation</h3>
+<h3>Contact Information</h3>
 <a href="https://discord.com/users/484683804670296065" target"blank_"><img src="https://img.shields.io/badge/synth%238532%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:synth@cock.li" target"blank_"><img src="https://shields.io/badge/synth%40cock.li%20-111111.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://github.com/c-um" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
